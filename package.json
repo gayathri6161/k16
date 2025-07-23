@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https:// gayathri6161.github.io/k16",
+  "homepage": "https://gayathri6161.github.io/k16",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
